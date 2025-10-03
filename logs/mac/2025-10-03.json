@@ -1,0 +1,16 @@
+{
+  "user": "mac",
+  "date": "2025-10-03",
+  "is_rest": false,
+  "workout_type": "full_gym",
+  "started_at": null,
+  "ended_at": null,
+  "duration_seconds": null,
+  "exercises": [
+    {
+      "name": "Bench Press",
+      "rest_seconds_recommended": 120,
+      "sets": []
+    }
+  ]
+}
