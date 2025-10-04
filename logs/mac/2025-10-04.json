@@ -109,6 +109,11 @@
       "name": "Tricep Extensions (Cable)",
       "rest_seconds_recommended": 60,
       "sets": []
+    },
+    {
+      "name": "Cable crunches",
+      "rest_seconds_recommended": 90,
+      "sets": []
     }
   ]
 }
