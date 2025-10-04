@@ -98,7 +98,15 @@
     {
       "name": "Lateral Raises",
       "rest_seconds_recommended": 60,
-      "sets": []
+      "sets": [
+        {
+          "set_number": 1,
+          "weight": 5.0,
+          "reps": 15,
+          "rest_seconds_actual": 60,
+          "logged_at": "2025-10-04T03:17:27.432619"
+        }
+      ]
     },
     {
       "name": "Dips",
