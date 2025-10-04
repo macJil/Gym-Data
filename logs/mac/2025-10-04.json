@@ -113,7 +113,15 @@
     {
       "name": "Cable crunches",
       "rest_seconds_recommended": 90,
-      "sets": []
+      "sets": [
+        {
+          "set_number": 1,
+          "weight": 65.0,
+          "reps": 12,
+          "rest_seconds_actual": 90,
+          "logged_at": "2025-10-04T03:07:11.771206"
+        }
+      ]
     }
   ]
 }
