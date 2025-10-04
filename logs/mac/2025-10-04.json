@@ -108,7 +108,15 @@
     {
       "name": "Tricep Extensions (Cable)",
       "rest_seconds_recommended": 60,
-      "sets": []
+      "sets": [
+        {
+          "set_number": 1,
+          "weight": 30.0,
+          "reps": 13,
+          "rest_seconds_actual": 60,
+          "logged_at": "2025-10-04T03:07:30.343732"
+        }
+      ]
     },
     {
       "name": "Cable crunches",
