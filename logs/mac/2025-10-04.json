@@ -1,0 +1,41 @@
+{
+  "user": "mac",
+  "date": "2025-10-04",
+  "is_rest": false,
+  "workout_type": "full_gym",
+  "started_at": null,
+  "ended_at": null,
+  "duration_seconds": null,
+  "exercises": [
+    {
+      "name": "Bench Press",
+      "rest_seconds_recommended": 120,
+      "sets": []
+    },
+    {
+      "name": "Incline Dumbbell Press",
+      "rest_seconds_recommended": 90,
+      "sets": []
+    },
+    {
+      "name": "Military Press (Barbell)",
+      "rest_seconds_recommended": 120,
+      "sets": []
+    },
+    {
+      "name": "Lateral Raises",
+      "rest_seconds_recommended": 60,
+      "sets": []
+    },
+    {
+      "name": "Dips",
+      "rest_seconds_recommended": 90,
+      "sets": []
+    },
+    {
+      "name": "Tricep Extensions (Cable)",
+      "rest_seconds_recommended": 60,
+      "sets": []
+    }
+  ]
+}
