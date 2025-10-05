@@ -4,8 +4,8 @@
   "is_rest": false,
   "workout_type": "full_gym",
   "started_at": "2025-10-05T13:31:35.987080",
-  "ended_at": null,
-  "duration_seconds": null,
+  "ended_at": "2025-10-05T13:31:45.073296",
+  "duration_seconds": 9,
   "exercises": [
     {
       "name": "Bench Press",
