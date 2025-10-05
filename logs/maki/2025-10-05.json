@@ -78,7 +78,15 @@
     {
       "name": "Leg Press",
       "rest_seconds_recommended": 90,
-      "sets": []
+      "sets": [
+        {
+          "set_number": 1,
+          "weight": 80.0,
+          "reps": 15,
+          "rest_seconds_actual": 90,
+          "logged_at": "2025-10-05T03:11:19.654977"
+        }
+      ]
     },
     {
       "name": "Walking Lunges",
