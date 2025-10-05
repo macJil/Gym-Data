@@ -3,14 +3,22 @@
   "date": "2025-10-05",
   "is_rest": false,
   "workout_type": "full_gym",
-  "started_at": null,
+  "started_at": "2025-10-05T13:31:35.987080",
   "ended_at": null,
   "duration_seconds": null,
   "exercises": [
     {
       "name": "Bench Press",
       "rest_seconds_recommended": 120,
-      "sets": []
+      "sets": [
+        {
+          "set_number": 1,
+          "weight": 3.0,
+          "reps": 3,
+          "rest_seconds_actual": 120,
+          "logged_at": "2025-10-05T13:31:40.329118"
+        }
+      ]
     }
   ]
 }
