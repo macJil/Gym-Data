@@ -152,7 +152,15 @@
     {
       "name": "Russian Twists",
       "rest_seconds_recommended": 45,
-      "sets": []
+      "sets": [
+        {
+          "set_number": 1,
+          "weight": 12.0,
+          "reps": 40,
+          "rest_seconds_actual": 45,
+          "logged_at": "2025-10-05T03:36:01.382473"
+        }
+      ]
     }
   ]
 }
