@@ -110,7 +110,15 @@
     {
       "name": "Calf Raises",
       "rest_seconds_recommended": 60,
-      "sets": []
+      "sets": [
+        {
+          "set_number": 1,
+          "weight": 50.0,
+          "reps": 20,
+          "rest_seconds_actual": 60,
+          "logged_at": "2025-10-05T03:22:45.103386"
+        }
+      ]
     },
     {
       "name": "Russian Twists",
