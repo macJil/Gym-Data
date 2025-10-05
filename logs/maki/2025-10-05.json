@@ -3,7 +3,7 @@
   "date": "2025-10-05",
   "is_rest": false,
   "workout_type": "full_gym",
-  "started_at": null,
+  "started_at": "2025-10-05T02:31:20.682132",
   "ended_at": null,
   "duration_seconds": null,
   "exercises": [
@@ -15,7 +15,15 @@
     {
       "name": "Romanian Deadlifts",
       "rest_seconds_recommended": 120,
-      "sets": []
+      "sets": [
+        {
+          "set_number": 1,
+          "weight": 50.0,
+          "reps": 9,
+          "rest_seconds_actual": 120,
+          "logged_at": "2025-10-05T02:36:56.808698"
+        }
+      ]
     },
     {
       "name": "Leg Press",
