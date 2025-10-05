@@ -4,8 +4,8 @@
   "is_rest": false,
   "workout_type": "full_gym",
   "started_at": "2025-10-05T02:31:20.682132",
-  "ended_at": null,
-  "duration_seconds": null,
+  "ended_at": "2025-10-05T03:40:42.312749",
+  "duration_seconds": 4161,
   "exercises": [
     {
       "name": "Squats (Barbell)",
