@@ -159,6 +159,13 @@
           "reps": 15,
           "rest_seconds_actual": 60,
           "logged_at": "2025-10-07T07:28:40.428384"
+        },
+        {
+          "set_number": 2,
+          "weight": 8.0,
+          "reps": 15,
+          "rest_seconds_actual": 60,
+          "logged_at": "2025-10-07T07:31:27.985028"
         }
       ]
     }
