@@ -1,0 +1,41 @@
+{
+  "user": "maki",
+  "date": "2025-10-07",
+  "is_rest": false,
+  "workout_type": "full_gym",
+  "started_at": null,
+  "ended_at": null,
+  "duration_seconds": null,
+  "exercises": [
+    {
+      "name": "Pull-ups/Assisted Pull-ups",
+      "rest_seconds_recommended": 90,
+      "sets": []
+    },
+    {
+      "name": "Barbell Rows",
+      "rest_seconds_recommended": 120,
+      "sets": []
+    },
+    {
+      "name": "Lat Pulldowns",
+      "rest_seconds_recommended": 90,
+      "sets": []
+    },
+    {
+      "name": "Face Pulls",
+      "rest_seconds_recommended": 60,
+      "sets": []
+    },
+    {
+      "name": "Bicep Curls (Barbell)",
+      "rest_seconds_recommended": 60,
+      "sets": []
+    },
+    {
+      "name": "Hammer Curls",
+      "rest_seconds_recommended": 60,
+      "sets": []
+    }
+  ]
+}
