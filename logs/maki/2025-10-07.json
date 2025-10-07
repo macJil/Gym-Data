@@ -71,7 +71,15 @@
     {
       "name": "Lat Pulldowns",
       "rest_seconds_recommended": 90,
-      "sets": []
+      "sets": [
+        {
+          "set_number": 1,
+          "weight": 47.0,
+          "reps": 12,
+          "rest_seconds_actual": 90,
+          "logged_at": "2025-10-07T07:17:17.491106"
+        }
+      ]
     },
     {
       "name": "Face Pulls",
