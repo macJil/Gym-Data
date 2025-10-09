@@ -1,0 +1,41 @@
+{
+  "user": "maki",
+  "date": "2025-10-09",
+  "is_rest": false,
+  "workout_type": "home_dumbbells",
+  "started_at": null,
+  "ended_at": null,
+  "duration_seconds": null,
+  "exercises": [
+    {
+      "name": "Dumbbell Deadlifts",
+      "rest_seconds_recommended": 120,
+      "sets": []
+    },
+    {
+      "name": "Dumbbell Thrusters",
+      "rest_seconds_recommended": 90,
+      "sets": []
+    },
+    {
+      "name": "Dumbbell Clean and Press",
+      "rest_seconds_recommended": 120,
+      "sets": []
+    },
+    {
+      "name": "Dumbbell Renegade Rows",
+      "rest_seconds_recommended": 90,
+      "sets": []
+    },
+    {
+      "name": "Dumbbell Burpees",
+      "rest_seconds_recommended": 90,
+      "sets": []
+    },
+    {
+      "name": "Dumbbell Mountain Climbers",
+      "rest_seconds_recommended": 60,
+      "sets": []
+    }
+  ]
+}
