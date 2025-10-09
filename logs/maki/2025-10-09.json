@@ -3,9 +3,9 @@
   "date": "2025-10-09",
   "is_rest": false,
   "workout_type": "home_dumbbells",
-  "started_at": null,
-  "ended_at": null,
-  "duration_seconds": null,
+  "started_at": "2025-10-09T05:04:12.359238",
+  "ended_at": "2025-10-09T05:05:06.029533",
+  "duration_seconds": 53,
   "exercises": [
     {
       "name": "Dumbbell Deadlifts",
